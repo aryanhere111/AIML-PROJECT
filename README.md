@@ -1,9 +1,8 @@
 # AIML-PROJECT 
+**🛒 OneCart – CLI-Based E-Commerce System**
 
-🛒 OneCart – CLI-Based E-Commerce System
 
-
-📌 Overview
+**📌 Overview**
 
 OneCart is a simple command-line based e-commerce application developed in Python.
 
@@ -21,7 +20,7 @@ Order placement
 This project is designed to provide a strong foundational understanding of backend logic, file handling, and data persistence using JSON.
 
 
-🎯 Objective
+**🎯 Objective**
 
 
 The main goal of this project is to:
@@ -36,7 +35,7 @@ Build a modular and scalable CLI application
 
 
 
-🧠 Core Concepts Used
+**🧠 Core Concepts Used**
 
 
 1. File Handling (Persistent Storage)
@@ -72,10 +71,9 @@ User Input → Business Logic → JSON Storage → Output Display
 
 
 
-📂 Project Structure
+**📂 Project Structure**
 
-
-
+```bash
 OneCart/
 │
 ├── main.py            # Main application logic
@@ -83,14 +81,13 @@ OneCart/
 ├── products.json      # Product catalog
 ├── orders.json        # Order history
 └── README.md          # Project documentation
+```
 
 
 
+**
+⚙️ Features**
 
-
-
-
-⚙️ Features
 🔐 User Management
 
 
@@ -102,13 +99,13 @@ Login with credentials
 
 Prevent duplicate usernames
 
-📦 Product Management
+**📦 Product Management**
 Display product list with ID, name, and price
 
 
 Reads data dynamically from JSON
 
-🛒 Cart System
+**🛒 Cart System**
 Add products using product ID
 
 
@@ -116,8 +113,8 @@ View cart items
 
 
 Calculate total cost
-
-📑 Order System
+**
+📑 Order System**
 Place orders from cart
 
 
@@ -126,7 +123,7 @@ Store order history
 
 Clear cart after order
 
-▶️ How to Run
+**▶️ How to Run**
 Step 1: Install Python
 
 
@@ -154,7 +151,7 @@ Step 3: Follow menu options
 
 7 exit
 
-🧩 Design Analysis (Deep Understanding)
+**🧩 Design Analysis (Deep Understanding)**
 
 
 ✔ Why JSON Instead of Database?
@@ -200,7 +197,7 @@ No real database integration
 
 
 
-🚀 Future Enhancements
+**🚀 Future Enhancements**
 
 
 Add graphical user interface (GUI)
@@ -215,8 +212,8 @@ Add payment gateway simulation
 
 Improve input validation and error handling
 
-
-📚 Learning Outcomes
+**
+📚 Learning Outcomes**
 
 
 Through this project, you will understand:
@@ -236,8 +233,8 @@ Importance of modular programming
 Real-world application of Python fundamentals
 
 
-🏁 Conclusion
-
+**🏁 Conclusion
+**
 
 OneCart serves as a beginner-friendly e-commerce simulation that builds strong fundamentals in backend development. While simple in design, it reflects real-world system logic and provides a solid base for developing advanced applications
 
