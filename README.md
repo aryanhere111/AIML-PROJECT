@@ -77,9 +77,9 @@ User Input → Business Logic → JSON Storage → Output Display
 OneCart/
 │
 ├── main.py            # Main application logic
-├── users.json         # User database
-├── products.json      # Product catalog
 ├── orders.json        # Order history
+├── products.json      # Product catalog
+├── users.json        # Users Data base
 └── README.md          # Project documentation
 ```
 
