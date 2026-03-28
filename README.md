@@ -85,8 +85,7 @@ OneCart/
 
 
 
-**
-⚙️ Features**
+**⚙️ Features**
 
 🔐 User Management
 
@@ -113,8 +112,8 @@ View cart items
 
 
 Calculate total cost
-**
-📑 Order System**
+
+**📑 Order System**
 Place orders from cart
 
 
@@ -212,8 +211,7 @@ Add payment gateway simulation
 
 Improve input validation and error handling
 
-**
-📚 Learning Outcomes**
+**📚 Learning Outcomes**
 
 
 Through this project, you will understand:
@@ -233,8 +231,7 @@ Importance of modular programming
 Real-world application of Python fundamentals
 
 
-**🏁 Conclusion
-**
+**🏁 Conclusion**
 
 OneCart serves as a beginner-friendly e-commerce simulation that builds strong fundamentals in backend development. While simple in design, it reflects real-world system logic and provides a solid base for developing advanced applications
 
